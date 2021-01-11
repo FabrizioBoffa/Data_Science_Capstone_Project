@@ -1,4 +1,6 @@
-# Data_Science_Capstone_Project
+# Coursera Capstone Project - The Battle of Neighborhoods
+Analysis of London residential housing market
+January 2021 - Fabrizio Boffa
 
 Main notebook file is CapstoneProject.
 The notebook has been saved with output cells cleared for size reduction.
