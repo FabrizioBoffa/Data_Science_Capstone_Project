@@ -6,3 +6,6 @@ The notebook has been saved with output cells cleared for size reduction since i
 Before running the notebook please:
 - Unzip json files in /json/houses/ and /json/venues/. Extracted files must be in same directory as zip file.
 - Check and install eventual missing libraries in your python kernel.
+
+HTML version of this notebook is available at:
+https://1drv.ms/u/s!Ahn4nxOt78WAhIR2IddbjVCosVplaQ
