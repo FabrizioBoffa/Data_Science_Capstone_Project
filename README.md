@@ -3,7 +3,7 @@
 ### *January 2021 - Fabrizio Boffa*
 
 Main notebook file is "CapstoneProject.ipynb".
-The notebook has been saved with output cells cleared for size reduction.
+
 Before running the notebook please check and install eventual missing libraries in your python kernel.
 
 Complete HTML output of this notebook is available at:
